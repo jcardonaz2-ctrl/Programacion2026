@@ -15,3 +15,6 @@ Git es un sistema de control de versiones local que rastrea cambios en el códig
 2.git add . o git add <archivo>: Prepara los cambios para el commit.
 3.git commit -m "Mensaje claro": Confirma los cambios en tu repositorio local.
 4.git push origin <rama: Sube los cambios confirmados al repositorio remoto. 
+
+5. Que es una branch
+Una branch (rama) en programación (especialmente en Git) es una línea de desarrollo independiente que permite trabajar en nuevas funcionalidades o corregir errores sin afectar el código principal o "master". Es un concepto fundamental para la colaboración, permitiendo aislar cambios antes de integrarlos. 
